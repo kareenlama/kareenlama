@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente estoy aplicando mis conocimientos en [ResiRed](https://resired.site)
 
-- 🌱 Estoy aprendiendo **TypeScript avanzado, animaciones con GSAP y buenas prácticas de accesibilidad.**
+- 🌱 Estoy aprendiendo **TypeScript avanzado y buenas prácticas de accesibilidad.**
 
 - 👯 Busco colaborar en **Proyectos de diseño UX/UI, desarrollo Front-End y hackathons.**
 
