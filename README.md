@@ -39,9 +39,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kareenlama/kareenlama/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kareenlama/kareenlama/output/pacman-contribution-graph.svg"/>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kareenlama/kareenlama/output/pacman-contribution-graph.svg"/>
+  <img src="https://github.com/user-attachments/assets/8fc6e8ed-e5af-40bb-89a8-a113771c9f59" />
+
 </picture>
 
 ###
