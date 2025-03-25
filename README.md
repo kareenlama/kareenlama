@@ -5,7 +5,7 @@
 <img align="right" alt "coding" width="400" src="https://github.com/user-attachments/assets/a383a892-92ab-490d-a73d-adbc9fe516b2">
 
 
-- 🔭 Actualmente estoy trabajando en [ResiRed](https://resired.site)
+- 🔭 Actualmente estoy aplicando mis conocimientos en [ResiRed](https://resired.site)
 
 - 🌱 Estoy aprendiendo **TypeScript avanzado, animaciones con GSAP y buenas prácticas de accesibilidad.**
 
