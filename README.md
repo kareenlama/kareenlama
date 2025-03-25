@@ -17,7 +17,7 @@
 
 - 💬 Pregúntame sobre **Sistemas de diseño, estrategias UX y cómo convertir wireframes en código.**
 
-- 📫 Contáctame **alejandra.latorrem@gmail.com | [LinkedIn**](https://www.linkedin.com/in/kareen-latorre)
+- 📫 Contáctame **alejandra.latorrem@gmail.com | [LinkedIn](https://www.linkedin.com/in/kareen-latorre)**
 
 - ⚡ Dato curioso **Tengo un perrito llamado Lucca 🐕**
 
