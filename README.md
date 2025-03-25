@@ -5,7 +5,7 @@
 <img align="right" alt "coding" width="400" src="https://github.com/user-attachments/assets/a383a892-92ab-490d-a73d-adbc9fe516b2">
 
 
-- 🔭 Actualmente estoy trabajando en [ResiRed](resired.site)
+- 🔭 Actualmente estoy trabajando en [ResiRed](https://resired.site)
 
 - 🌱 Estoy aprendiendo **TypeScript avanzado, animaciones con GSAP y buenas prácticas de accesibilidad.**
 
@@ -13,11 +13,11 @@
 
 - 🤝 Busco ayuda con **Integración de backend en proyectos full stack.**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [kareenlatorre.me](kareenlatorre.me)
+- 👨‍💻 Todos mis proyectos están disponibles en [kareenlatorre.me](https://kareenlatorre.me)
 
 - 💬 Pregúntame sobre **Sistemas de diseño, estrategias UX y cómo convertir wireframes en código.**
 
-- 📫 Contáctame **alejandra.latorrem@gmail.com | www.linkedin.com/in/kareen-latorre**
+- 📫 Contáctame **alejandra.latorrem@gmail.com | [LinkedIn**](https://www.linkedin.com/in/kareen-latorre)
 
 - ⚡ Dato curioso **Tengo un perrito llamado Lucca 🐕**
 
